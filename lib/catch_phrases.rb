@@ -14,7 +14,6 @@ def link
   puts phrase
 end
 
-def any_phrase
-  any "I love chocolate!"
-  puts any
+def any_phrase(phrase)
+  puts phrase
 end
